@@ -1,0 +1,13 @@
+label,message
+spam,"Congratulations! You won a lottery"
+spam,"Claim your free gift now"
+ham,"Meeting at 5 PM today"
+ham,"Project submission tomorrow"
+spam,"Win cash prizes instantly"
+ham,"Call me when you are free"
+spam,"Exclusive offer just for you"
+ham,"Let us discuss the assignment"
+spam,"You have won a free mobile"
+ham,"Please submit your report"
+spam,"Get rich quickly now"
+ham,"Can we meet tomorrow?"
